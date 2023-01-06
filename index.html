@@ -16,16 +16,22 @@
   <body>
     <header>
       <nav class=".nav">
-        <ul class="menu">
+        <div class="prand-icon">
+          <a href="#">
+            <img class="prand-icon_image" src="./moviesapp.png" alt="Movies-app">
+          </a>
+        </div>
+        <button type="button" id="icon" class="icon"><i class="fa fa-bars"></i></button>
+        <button type="button" id="search-icon" class="search-icon"><i class="fas fa-search"></i></button>
+        <ul data-state="closed" id="menu" class="menu">
           <li class="menu-item"><a href="">home</a></li>
           <li class="menu-item"><a href="">Newest</a></li>
           <li class="menu-item"><a href="">categories</a></li>
           <li class="menu-item"><a href="">Most popular</a></li>
           <li class="menu-item"><a href="">Best</a></li>
         </ul>
-
         <form id="form">
-          <input type="text" id="search" class="search" placeholder="Search" />
+          <input type="text" id="search" class="search hide" placeholder="Search" />
         </form>
       </nav>
     </header>
