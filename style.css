@@ -14,16 +14,16 @@
 }
 
 body {
-  background: #800080; /* fallback for old browsers */
+  background: #2B2B31; /* fallback for old browsers */
   background: -webkit-linear-gradient(
     to right,
-    #800080,
-    #9e5561
+    #2B2B31,
+    #222281
   ); /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(
     to right,
-    #800080,
-    #9e5561
+    #2B2B31,
+    #222281
   ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -42,8 +42,8 @@ nav {
   z-index: 1;
   background: linear-gradient(
     to right,
-    #a70ba7,
-    #b66e7a
+    #222281,
+    #3d3dac
   );
 
   width: 100%;
