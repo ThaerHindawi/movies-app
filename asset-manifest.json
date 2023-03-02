@@ -1,11 +1,11 @@
 {
   "main.css": "/movies-app/static/css/main.ddf2c5ab.chunk.css",
-  "main.js": "/movies-app/static/js/main.71b59574.chunk.js",
-  "main.js.map": "/movies-app/static/js/main.71b59574.chunk.js.map",
+  "main.js": "/movies-app/static/js/main.cf1bbc96.chunk.js",
+  "main.js.map": "/movies-app/static/js/main.cf1bbc96.chunk.js.map",
   "static/js/1.071f6974.chunk.js": "/movies-app/static/js/1.071f6974.chunk.js",
   "static/js/1.071f6974.chunk.js.map": "/movies-app/static/js/1.071f6974.chunk.js.map",
-  "static/js/2.a15ddd4f.chunk.js": "/movies-app/static/js/2.a15ddd4f.chunk.js",
-  "static/js/2.a15ddd4f.chunk.js.map": "/movies-app/static/js/2.a15ddd4f.chunk.js.map",
+  "static/js/2.19a1508b.chunk.js": "/movies-app/static/js/2.19a1508b.chunk.js",
+  "static/js/2.19a1508b.chunk.js.map": "/movies-app/static/js/2.19a1508b.chunk.js.map",
   "runtime~main.js": "/movies-app/static/js/runtime~main.6c08ea59.js",
   "runtime~main.js.map": "/movies-app/static/js/runtime~main.6c08ea59.js.map",
   "static/media/default_profile_image.png": "/movies-app/static/media/default_profile_image.cf89e8e6.png",
@@ -14,6 +14,6 @@
   "static/media/MoviePage.css": "/movies-app/static/media/background.88757002.jpg",
   "static/css/main.ddf2c5ab.chunk.css.map": "/movies-app/static/css/main.ddf2c5ab.chunk.css.map",
   "index.html": "/movies-app/index.html",
-  "precache-manifest.32b2bd0417073e00889c4a76c28fedb6.js": "/movies-app/precache-manifest.32b2bd0417073e00889c4a76c28fedb6.js",
+  "precache-manifest.20ddb6f6134fa26d46a2cacb75f2a9aa.js": "/movies-app/precache-manifest.20ddb6f6134fa26d46a2cacb75f2a9aa.js",
   "service-worker.js": "/movies-app/service-worker.js"
 }
