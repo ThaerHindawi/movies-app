@@ -1,0 +1,19 @@
+{
+  "main.css": "/my-app/static/css/main.26014f45.chunk.css",
+  "main.js": "/my-app/static/js/main.3013971b.chunk.js",
+  "main.js.map": "/my-app/static/js/main.3013971b.chunk.js.map",
+  "static/js/1.071f6974.chunk.js": "/my-app/static/js/1.071f6974.chunk.js",
+  "static/js/1.071f6974.chunk.js.map": "/my-app/static/js/1.071f6974.chunk.js.map",
+  "static/js/2.a15ddd4f.chunk.js": "/my-app/static/js/2.a15ddd4f.chunk.js",
+  "static/js/2.a15ddd4f.chunk.js.map": "/my-app/static/js/2.a15ddd4f.chunk.js.map",
+  "runtime~main.js": "/my-app/static/js/runtime~main.e625cd89.js",
+  "runtime~main.js.map": "/my-app/static/js/runtime~main.e625cd89.js.map",
+  "static/media/default_profile_image.png": "/my-app/static/media/default_profile_image.cf89e8e6.png",
+  "static/media/moviesapp.png": "/my-app/static/media/moviesapp.1484d78a.png",
+  "static/media/logo-imdb.svg": "/my-app/static/media/logo-imdb.a5c416d9.svg",
+  "static/media/MoviePage.css": "/my-app/static/media/background.88757002.jpg",
+  "static/css/main.26014f45.chunk.css.map": "/my-app/static/css/main.26014f45.chunk.css.map",
+  "index.html": "/my-app/index.html",
+  "precache-manifest.d3cc390c81b2a47b2ad646bf61210ca4.js": "/my-app/precache-manifest.d3cc390c81b2a47b2ad646bf61210ca4.js",
+  "service-worker.js": "/my-app/service-worker.js"
+}
